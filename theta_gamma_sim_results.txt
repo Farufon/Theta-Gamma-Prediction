@@ -1,0 +1,41 @@
+Tsirelson bound (both theories at t=0): 2.828427
+Free parameters: kappa=1.00e+11, tau_sat=100.0 s
+kappa is NOT derived by the framework. Functional form is the prediction;
+magnitude awaits a derivation or a measurement.
+
+============================================================================
+SWEEP 1: exposure time at fixed height H = 1000 m
+============================================================================
+   t (s) |  S standard | S Theta-Gamma |   deficit |    sigma^2
+     0.1 |     2.82843 |       2.82688 |   0.00155 | 1.0906e-03
+     1.0 |     2.82843 |       2.81315 |   0.01528 | 1.0857e-02
+     3.0 |     2.82843 |       2.78324 |   0.04519 | 3.2248e-02
+    10.0 |     2.82843 |       2.68497 |   0.14345 | 1.0384e-01
+    30.0 |     2.82843 |       2.45550 |   0.37293 | 2.8280e-01
+   100.0 |     2.82843 |       2.00220 |   0.82623 | 6.8973e-01
+   300.0 |     2.82843 |       1.68117 |   1.14726 | 1.0368e+00
+  1000.0 |     2.82843 |       1.63892 |   1.18950 | 1.0911e+00
+
+============================================================================
+SWEEP 2: height at fixed exposure t = 100 s
+============================================================================
+   H (m) |  S standard | S Theta-Gamma |   deficit |    sigma^2
+       1 |     2.82843 |       2.82745 |   0.00097 | 6.8973e-04
+      10 |     2.82843 |       2.81870 |   0.00972 | 6.8973e-03
+     100 |     2.82843 |       2.73198 |   0.09645 | 6.8973e-02
+    1000 |     2.82843 |       2.00329 |   0.82513 | 6.8973e-01
+   10000 |     2.82843 |       0.08939 |   2.73903 | 6.8973e+00
+  100000 |     2.82843 |       0.00464 |   2.82378 | 6.8973e+01
+
+============================================================================
+THE SIGNATURE, in one sentence
+============================================================================
+Standard QM: after proper-time compensation the CHSH value returns
+to 2*sqrt(2) regardless of H and t.
+Theta-Gamma: a residual deficit remains, linear in g*H/c^2,
+saturating in t with timescale tau_sat, and NO compensation
+protocol removes it, because stabilization was never unitary.
+
+That saturation knee is the fingerprint. Ordinary decoherence
+grows without bound; this plateaus. An experimentalist can tell
+them apart.
