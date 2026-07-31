@@ -10,7 +10,10 @@ A computational model of the Theta-Gamma framework's central testable prediction
 
 **What makes this different from ordinary decoherence:** Ordinary environmental noise grows monotonically. This signature has a knee. It saturates. An experimentalist can tell them apart.
 
----
+
+![Predicted CHSH divergence: standard QM flat, Theta-Gamma saturating](theta_gamma_divergence.png)
+
+theta_gamma_divergence.png
 
 ## The Epistemic Frame
 
