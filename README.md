@@ -13,8 +13,6 @@ A computational model of the Theta-Gamma framework's central testable prediction
 
 ![Predicted CHSH divergence: standard QM flat, Theta-Gamma saturating](theta_gamma_divergence.png)
 
-theta_gamma_divergence.png
-
 ## The Epistemic Frame
 
 Everything in this package is tagged to one of three tiers. The tiers never collapse into each other.
