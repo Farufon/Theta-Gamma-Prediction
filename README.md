@@ -76,8 +76,29 @@ Standard QM with gravitational effects predicts one curve. This framework predic
 ## Contact & Attribution
 
 Framework: Jon Anthony Farhat (2026)
-Simulation: Claude (Anthropic), July 2026
 Citation: Farhat, Jon A. "Superposition Is Not What You Think: On Velocity, Time, and the Architecture of the Real." 2026.
+
+A Theta-Time / Gamma-Time Proposition
+https://substack.com/home/post/p-187163843
+
+
+Temporal Entanglement-From Vibrational Pairs to Theta-Gamma Time
+https://doi.org/10.13140/RG.2.2.15245.60643
+
+
+Superposition Is Not What You Think
+https://doi.org/10.13140/RG.2.2.35766.87365
+
+
+Entanglement in the Court of Time
+https://doi.org/10.13140/RG.2.2.32022.82241
+
+
+A Structural Answer to Chalmers' "Why?"
+https://doi.org/10.13140/RG.2.2.19610.71362
+
+
+
 
 ---
 
